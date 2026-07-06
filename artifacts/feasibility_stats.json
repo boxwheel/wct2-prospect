@@ -1,0 +1,295 @@
+{
+  "xg_coverage": {
+    "years": [
+      2018,
+      2022
+    ],
+    "n_matches": 128,
+    "total_matches": 964
+  },
+  "own_goals": {
+    "home": 39,
+    "away": 17,
+    "ratio": 2.29,
+    "total_matches": 964
+  },
+  "goal_timing": {
+    "total_goals": 2194,
+    "dataset": "WorldCupPlayers (abecklas 1930-2014)",
+    "distribution": {
+      "1-15": 294,
+      "16-30": 324,
+      "31-45": 303,
+      "46-60": 354,
+      "61-75": 398,
+      "76-90": 457,
+      "91+": 64
+    }
+  },
+  "penalty_shootouts": {
+    "n_shootouts": 35,
+    "home_wins": 18,
+    "home_win_pct": 51.4
+  },
+  "golden_boot": {
+    "n_tournaments": 22,
+    "golden_boot_from_champion": 3,
+    "pct": 13.6,
+    "details": [
+      {
+        "year": 2022,
+        "champion": "Argentina",
+        "top_scorer": "Kylian Mbapp\u00e9 - 8",
+        "match": false
+      },
+      {
+        "year": 2018,
+        "champion": "France",
+        "top_scorer": "Harry Kane - 6",
+        "match": false
+      },
+      {
+        "year": 2014,
+        "champion": "Germany",
+        "top_scorer": "James Rodr\u00edguez - 6",
+        "match": false
+      },
+      {
+        "year": 2010,
+        "champion": "Spain",
+        "top_scorer": "Wesley Sneijder, Thomas M\u00fcller... - 5",
+        "match": false
+      },
+      {
+        "year": 2006,
+        "champion": "Italy",
+        "top_scorer": "Miroslav Klose - 5",
+        "match": false
+      },
+      {
+        "year": 2002,
+        "champion": "Brazil",
+        "top_scorer": "Ronaldo - 8",
+        "match": true
+      },
+      {
+        "year": 1998,
+        "champion": "France",
+        "top_scorer": "Davor \u0160uker - 6",
+        "match": false
+      },
+      {
+        "year": 1994,
+        "champion": "Brazil",
+        "top_scorer": "Hristo Stoichkov, Oleg Salenko - 6",
+        "match": false
+      },
+      {
+        "year": 1990,
+        "champion": "West Germany",
+        "top_scorer": "Salvatore Schillaci - 6",
+        "match": false
+      },
+      {
+        "year": 1986,
+        "champion": "Argentina",
+        "top_scorer": "Gary Lineker - 6",
+        "match": false
+      },
+      {
+        "year": 1982,
+        "champion": "Italy",
+        "top_scorer": "Paolo Rossi - 6",
+        "match": true
+      },
+      {
+        "year": 1978,
+        "champion": "Argentina",
+        "top_scorer": "Mario Kempes - 6",
+        "match": true
+      },
+      {
+        "year": 1974,
+        "champion": "West Germany",
+        "top_scorer": "Grzegorz Lato - 7",
+        "match": false
+      },
+      {
+        "year": 1970,
+        "champion": "Brazil",
+        "top_scorer": "Gerd M\u00fcller - 10",
+        "match": false
+      },
+      {
+        "year": 1966,
+        "champion": "England",
+        "top_scorer": "Eus\u00e9bio - 9",
+        "match": false
+      },
+      {
+        "year": 1962,
+        "champion": "Brazil",
+        "top_scorer": "Leonel S\u00e1nchez, Fl\u00f3ri\u00e1n Albert... - 4",
+        "match": false
+      },
+      {
+        "year": 1958,
+        "champion": "Brazil",
+        "top_scorer": "Just Fontaine - 13",
+        "match": false
+      },
+      {
+        "year": 1954,
+        "champion": "Germany",
+        "top_scorer": "S\u00e1ndor Kocsis - 11",
+        "match": false
+      },
+      {
+        "year": 1950,
+        "champion": "Uruguay",
+        "top_scorer": "Ademir - 8",
+        "match": false
+      },
+      {
+        "year": 1938,
+        "champion": "Italy",
+        "top_scorer": "Le\u00f4nidas - 7",
+        "match": false
+      },
+      {
+        "year": 1934,
+        "champion": "Italy",
+        "top_scorer": "Old\u0159ich Nejedl\u00fd - 5",
+        "match": false
+      },
+      {
+        "year": 1930,
+        "champion": "Uruguay",
+        "top_scorer": "Guillermo St\u00e1bile - 8",
+        "match": false
+      }
+    ]
+  },
+  "extra_time": {
+    "n_matches": 73,
+    "total_matches": 964,
+    "pct": 7.6
+  },
+  "champion_group_losses": {
+    "n_tournaments": 22,
+    "champions_with_group_loss": 5,
+    "pct": 22.7,
+    "details": [
+      {
+        "year": 1930,
+        "champion": "Uruguay",
+        "group_losses": 0
+      },
+      {
+        "year": 1934,
+        "champion": "Italy",
+        "group_losses": 0
+      },
+      {
+        "year": 1938,
+        "champion": "Italy",
+        "group_losses": 0
+      },
+      {
+        "year": 1950,
+        "champion": "Uruguay",
+        "group_losses": 0
+      },
+      {
+        "year": 1954,
+        "champion": "Germany FR",
+        "group_losses": 1
+      },
+      {
+        "year": 1958,
+        "champion": "Brazil",
+        "group_losses": 0
+      },
+      {
+        "year": 1962,
+        "champion": "Brazil",
+        "group_losses": 0
+      },
+      {
+        "year": 1966,
+        "champion": "England",
+        "group_losses": 0
+      },
+      {
+        "year": 1970,
+        "champion": "Brazil",
+        "group_losses": 0
+      },
+      {
+        "year": 1974,
+        "champion": "Germany FR",
+        "group_losses": 1
+      },
+      {
+        "year": 1978,
+        "champion": "Argentina",
+        "group_losses": 1
+      },
+      {
+        "year": 1982,
+        "champion": "Italy",
+        "group_losses": 0
+      },
+      {
+        "year": 1986,
+        "champion": "Argentina",
+        "group_losses": 0
+      },
+      {
+        "year": 1990,
+        "champion": "Germany FR",
+        "group_losses": 0
+      },
+      {
+        "year": 1994,
+        "champion": "Brazil",
+        "group_losses": 0
+      },
+      {
+        "year": 1998,
+        "champion": "France",
+        "group_losses": 0
+      },
+      {
+        "year": 2002,
+        "champion": "Brazil",
+        "group_losses": 0
+      },
+      {
+        "year": 2006,
+        "champion": "Italy",
+        "group_losses": 0
+      },
+      {
+        "year": 2010,
+        "champion": "Spain",
+        "group_losses": 1
+      },
+      {
+        "year": 2014,
+        "champion": "Germany",
+        "group_losses": 0
+      },
+      {
+        "year": 2022,
+        "champion": "Argentina",
+        "group_losses": 1
+      },
+      {
+        "year": 2018,
+        "champion": "France",
+        "group_losses": 0
+      }
+    ]
+  }
+}
